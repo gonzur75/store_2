@@ -1,0 +1,3 @@
+# Store_2 DJANGO EXCERCISE 
+ 
+
